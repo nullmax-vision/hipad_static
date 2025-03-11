@@ -1,0 +1,1 @@
+# hipad_static
